@@ -1,8 +1,16 @@
 # This Dataset
 
-- _Your name, affiliation, and contact_
-- _Brief description_
-- _Anything else you like to say_
+- Lorenzo Fenocchio
+
+  University of Genoa, Italy
+  
+  lorenzo.fenocchio@gmail.com
+
+- Compilation of data from many different sources. It has been collected during work on the [Genoa High-Entropy Alloys (GHEA) Database](https://comatresearchgroup.unige.it/node/252) by [COMAT Group at University of Genoa in Italy](https://comatresearchgroup.unige.it/).
+
+- Changes:
+   - Lines 195-198 updated for previously wrongly inserted Compressive Yield Strenght values.
+
 
 # ULTERA Database
 This template repository was developed for contributing to the [**ULTERA Database**](https://ultera.org) carried under the 
