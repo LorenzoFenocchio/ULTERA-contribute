@@ -12,6 +12,7 @@ ULTERA Data Templates Repository: [github.com/PhasesResearchLab/ULTERA-contribut
 
 - Changes:
    - Lines 195-198 updated for previously wrongly inserted Compressive Yield Strenght values.
+   - Line 158: corrected HV value, previously not converted to GPa
 
 
 ## ULTERA Database
