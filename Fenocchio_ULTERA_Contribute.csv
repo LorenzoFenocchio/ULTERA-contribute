@@ -1,0 +1,346 @@
+Name:,Lorenzo Fenocchio
+Email:,lorenzo.fenocchio@edu.unige.it
+Direct Fetched:,T
+Hand Fetched:,T
+Comment:,IM = Induction Melting, VAM = Arc Melting, C = Casting, A(T) = Anealing at T K, Values in column P = HV, ELM = Electromagnetic Levitation Melting, TS = thermal-sprayed
+
+id/nicknVAMe,Composition,Structure,Processing,Material Comment,Name,Source,Property ParVAMeters,Temperature [K],Value [SI],Uncertainty [SI],Unit [SI],Pointer,DOI
+1,Co1.5CrFeNi1.5Ti0.5Mo0.8,FCC+sigma,IM,None,None,EXP,None,None,None,None,None,None,10.1016/j.corsci.2010.04.004
+2,Co1.5CrFeNi1.5Ti0.5Mo0.5,FCC+sigma,IM,None,None,EXP,None,None,None,None,None,None,10.1016/j.corsci.2010.04.004
+3,Co1.5CrFeNi1.5Ti0.5Mo0.1,FCC,IM,None,None,EXP,None,None,None,None,None,None,10.1016/j.corsci.2010.04.004
+4,Co1.5CrFeNi1.5Ti0.5,FCC,IM,None,None,EXP,None,None,None,None,None,None,10.1016/j.corsci.2010.04.004
+5,CoCrFeNi,FCC,VAM,None,compressive yield stress,EXP,None,298.0,136000000.0,None,Pa,None,10.1016/j.matchar.2012.05.005
+5,CoCrFeNi,FCC,VAM,None,compressive strength,EXP,None,298.0,871000000.0,None,Pa,None,10.1016/j.matchar.2012.05.005
+5,CoCrFeNi,FCC,VAM,None,compressive fracture strain,EXP,None,298.0,75.0,None,%,None,10.1016/j.matchar.2012.05.005
+6,CoCrFeNiMo0.3,FCC+sigma,VAM,None,compressive yield stress,EXP,None,298.0,305000000.0,None,Pa,None,10.1016/j.matchar.2012.05.005
+6,CoCrFeNiMo0.3,FCC+sigma,VAM,None,compressive strength,EXP,None,298.0,1269000000.0,None,Pa,None,10.1016/j.matchar.2012.05.005
+6,CoCrFeNiMo0.3,FCC+sigma,VAM,None,compressive fracture strain,EXP,None,298.0,58.0,None,%,None,10.1016/j.matchar.2012.05.005
+7,CoCrFeNiMo0.5,FCC+sigma,VAM,None,compressive yield stress,EXP,None,298.0,510000000.0,None,Pa,None,10.1016/j.matchar.2012.05.005
+7,CoCrFeNiMo0.5,FCC+sigma,VAM,None,compressive strength,EXP,None,298.0,1371000000.0,None,Pa,None,10.1016/j.matchar.2012.05.005
+7,CoCrFeNiMo0.5,FCC+sigma,VAM,None,compressive fracture strain,EXP,None,298.0,33.0,None,%,None,10.1016/j.matchar.2012.05.005
+8,CoCrFeNiMo0.85,FCC+sigma+mu,VAM,None,compressive yield stress,EXP,None,298.0,929000000.0,None,Pa,None,10.1016/j.matchar.2012.05.005
+8,CoCrFeNiMo0.85,FCC+sigma+mu,VAM,None,compressive strength,EXP,None,298.0,1441000000.0,None,Pa,None,10.1016/j.matchar.2012.05.005
+8,CoCrFeNiMo0.85,FCC+sigma+mu,VAM,None,compressive fracture strain,EXP,None,298.0,21.0,None,%,None,10.1016/j.matchar.2012.05.005
+9,CoCrFeMo0.5Ni,FCC+sigma,VAM,None,None,EXP,None,None,None,None,None,None,10.1007/s11837-013-0773-2
+10,Al0.5CoCrFeMo0.5Ni,FCC+sigma,VAM,None,None,EXP,None,None,None,None,None,None,10.1007/s11837-013-0773-2
+11,AlCoCrFeMo0.5Ni,BCC+sigma,VAM,None,None,EXP,None,None,None,None,None,None,10.1007/s11837-013-0773-2
+12,Al1.5CoCrFeMo0.5Ni,BCC+sigma,VAM,None,None,EXP,None,None,None,None,None,None,10.1007/s11837-013-0773-2
+13,Al2CoCrFeMo0.5Ni,BCC+BCC,VAM,None,None,EXP,None,None,None,None,None,None,10.1007/s11837-013-0773-2
+14,AlCrFeMo0.5Ni,BCC+sigma,VAM,None,None,EXP,None,None,None,None,None,None,10.1007/s11837-013-0773-2
+15,AlCo0.5CrFeMo0.5Ni,BCC+sigma,VAM,None,None,EXP,None,None,None,None,None,None,10.1007/s11837-013-0773-2
+16,AlCo1.5CrFeMo0.5Ni,BCC+sigma,VAM,None,None,EXP,None,None,None,None,None,None,10.1007/s11837-013-0773-2
+17,AlCo2CrFeMo0.5Ni,BCC+FCC+sigma,VAM,None,None,EXP,None,None,None,None,None,None,10.1007/s11837-013-0773-2
+18,AlCoFeMo0.5Ni,BCC+sigma,VAM,None,None,EXP,None,None,None,None,None,None,10.1007/s11837-013-0773-2
+19,AlCoCr0.5FeMo0.5Ni,BCC+sigma,VAM,None,None,EXP,None,None,None,None,None,None,10.1007/s11837-013-0773-2
+20,AlCoCr1.5FeMo0.5Ni,BCC+sigma,VAM,None,None,EXP,None,None,None,None,None,None,10.1007/s11837-013-0773-2
+21,AlCoCr2FeMo0.5Ni,BCC+sigma,VAM,None,None,EXP,None,None,None,None,None,None,10.1007/s11837-013-0773-2
+22,AlCoCrFe0.6Mo0.5Ni,BCC+sigma,VAM,None,None,EXP,None,None,None,None,None,None,10.1007/s11837-013-0773-2
+23,AlCoCrFe1.5Mo0.5Ni,BCC+sigma,VAM,None,None,EXP,None,None,None,None,None,None,10.1007/s11837-013-0773-2
+24,AlCoCrFe2Mo0.5Ni,BCC+sigma,VAM,None,None,EXP,None,None,None,None,None,None,10.1007/s11837-013-0773-2
+25,AlCoCrFeNi,BCC+BCC,VAM,None,None,EXP,None,None,None,None,None,None,10.1007/s11837-013-0773-2
+26,AlCoCrFeMo0.9Ni,BCC+sigma,VAM,None,None,EXP,None,None,None,None,None,None,10.1007/s11837-013-0773-2
+27,AlCoCrFeMo0.5,BCC+sigma,VAM,None,None,EXP,None,None,None,None,None,None,10.1007/s11837-013-0773-2
+28,AlCoCrFeMo0.5Ni0.5,BCC+sigma,VAM,None,None,EXP,None,None,None,None,None,None,10.1007/s11837-013-0773-2
+29,AlCoCrFeMo0.5Ni1.5,BCC+FCC+sigma,VAM,None,None,EXP,None,None,None,None,None,None,10.1007/s11837-013-0773-2
+30,AlCoCrFeMo0.5Ni2,BCC+FCC+sigma,VAM,None,None,EXP,None,None,None,None,None,None,10.1007/s11837-013-0773-2
+31,AlCrFeMo0.2Ni,BCC+BCC,IM+C,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.matdes.2015.05.046
+31,AlCrFeMo0.2Ni,BCC+BCC,IM+A,Annealed at 823K,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.matdes.2015.05.046
+31,AlCrFeMo0.2Ni,BCC+BCC,IM+A,Annealed at 923K,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.matdes.2015.05.046
+31,AlCrFeMo0.2Ni,BCC+BCC+sigma,IM+A,Annealed at 1023K,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.matdes.2015.05.046
+31,AlCrFeMo0.2Ni,BCC+BCC+sigma,IM+A,Annealed at 1123K,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.matdes.2015.05.046
+31,AlCrFeMo0.2Ni,BCC+BCC+sigma,IM+A,Annealed at 1223K,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.matdes.2015.05.046
+31,AlCrFeMo0.2Ni,BCC+BCC,IM+A,Annealed at 1323K,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.matdes.2015.05.046
+32,Al0.5CoCrFeNi,BCC+FCC,VAM,None,compressive yield strength,EXP,None,298.0,368000000.0,None,Pa,None,10.1016/j.jallcom.2018.02.003
+33,Al0.5CoCrFeMo0.1Ni,BCC+FCC,VAM,None,compressive yield strength,EXP,None,298.0,414000000.0,None,Pa,None,10.1016/j.jallcom.2018.02.003
+34,Al0.5CoCrFeMo0.2Ni,BCC+FCC+sigma,VAM,None,compressive yield strength,EXP,None,298.0,556000000.0,None,Pa,None,10.1016/j.jallcom.2018.02.003
+35,Al0.5CoCrFeMo0.3Ni,BCC+FCC+sigma,VAM,None,compressive yield strength,EXP,None,298.0,814000000.0,None,Pa,None,10.1016/j.jallcom.2018.02.003
+36,Al0.5CoCrFeMo0.4Ni,BCC+FCC+sigma,VAM,None,compressive yield strength,EXP,None,298.0,1091000000.0,None,Pa,None,10.1016/j.jallcom.2018.02.003
+37,Al0.5CoCrFeMo0.5Ni,BCC+FCC+sigma,VAM,None,compressive yield strength,EXP,None,298.0,1544000000.0,None,Pa,None,10.1016/j.jallcom.2018.02.003
+34,Al0.5CoCrFeMo0.2Ni,BCC+FCC+sigma,VAM,None,UTS,EXP,None,298.0,2006000000.0,None,Pa,None,10.1016/j.jallcom.2018.02.003
+35,Al0.5CoCrFeMo0.3Ni,BCC+FCC+sigma,VAM,None,UTS,EXP,None,298.0,2101000000.0,None,Pa,None,10.1016/j.jallcom.2018.02.003
+36,Al0.5CoCrFeMo0.4Ni,BCC+FCC+sigma,VAM,None,UTS,EXP,None,298.0,2117000000.0,None,Pa,None,10.1016/j.jallcom.2018.02.003
+37,Al0.5CoCrFeMo0.5Ni,BCC+FCC+sigma,VAM,None,UTS,EXP,None,298.0,2360000000.0,None,Pa,None,10.1016/j.jallcom.2018.02.003
+34,Al0.5CoCrFeMo0.2Ni,BCC+FCC+sigma,VAM,None,compressive fracture strain,EXP,None,298.0,34.0,None,%,None,10.1016/j.jallcom.2018.02.003
+35,Al0.5CoCrFeMo0.3Ni,BCC+FCC+sigma,VAM,None,compressive fracture strain,EXP,None,298.0,31.0,None,%,None,10.1016/j.jallcom.2018.02.003
+36,Al0.5CoCrFeMo0.4Ni,BCC+FCC+sigma,VAM,None,compressive fracture strain,EXP,None,298.0,18.0,None,%,None,10.1016/j.jallcom.2018.02.003
+37,Al0.5CoCrFeMo0.5Ni,BCC+FCC+sigma,VAM,None,compressive fracture strain,EXP,None,298.0,10.0,None,%,None,10.1016/j.jallcom.2018.02.003
+32,Al0.5CoCrFeNi,BCC+FCC,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.jallcom.2018.02.003
+33,Al0.5CoCrFeMo0.1Ni,BCC+FCC,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.jallcom.2018.02.003
+34,Al0.5CoCrFeMo0.2Ni,BCC+FCC+sigma,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.jallcom.2018.02.003
+35,Al0.5CoCrFeMo0.3Ni,BCC+FCC+sigma,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.jallcom.2018.02.003
+36,Al0.5CoCrFeMo0.4Ni,BCC+FCC+sigma,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.jallcom.2018.02.003
+37,Al0.5CoCrFeMo0.5Ni,BCC+FCC+sigma,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.jallcom.2018.02.003
+38,Co28.5Cr21.5Fe20Ni26Mo4,FCC+mu,HIP,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1515/ntrev-2020-0047
+38,Co28.5Cr21.5Fe20Ni26Mo4,FCC+mu,HIP+A,Annealed at 773K,hardness,EXP,None,298.0,None,None,Pa,None,10.1515/ntrev-2020-0047
+38,Co28.5Cr21.5Fe20Ni26Mo4,FCC+mu,HIP+A,Annealed at 823K,hardness,EXP,None,298.0,None,None,Pa,None,10.1515/ntrev-2020-0047
+38,Co28.5Cr21.5Fe20Ni26Mo4,FCC+mu,HIP+A,Annealed at 873K,hardness,EXP,None,298.0,None,None,Pa,None,10.1515/ntrev-2020-0047
+38,Co28.5Cr21.5Fe20Ni26Mo4,FCC+mu,HIP+A,Annealed at 1073K,hardness,EXP,None,298.0,None,None,Pa,None,10.1515/ntrev-2020-0047
+38,Co28.5Cr21.5Fe20Ni26Mo4,FCC+mu,HIP+A,Annealed at 1123K,hardness,EXP,None,298.0,None,None,Pa,None,10.1515/ntrev-2020-0047
+38,Co28.5Cr21.5Fe20Ni26Mo4,FCC+mu,HIP+A,Annealed at 1173K,hardness,EXP,None,298.0,None,None,Pa,None,10.1515/ntrev-2020-0047
+38,Co28.5Cr21.5Fe20Ni26Mo4,FCC+mu,HIP+A,Annealed at 1373K,hardness,EXP,None,298.0,None,None,Pa,None,10.1515/ntrev-2020-0047
+38,Co28.5Cr21.5Fe20Ni26Mo4,FCC+mu,HIP+A,Annealed at 1423K,hardness,EXP,None,298.0,None,None,Pa,None,10.1515/ntrev-2020-0047
+38,Co28.5Cr21.5Fe20Ni26Mo4,FCC+mu,HIP+A,Annealed at 1473K,hardness,EXP,None,298.0,None,None,Pa,None,10.1515/ntrev-2020-0047
+38,Co28.5Cr21.5Fe20Ni26Mo4,FCC+mu,HIP,None,compressive strength,EXP,None,298.0,2596000000.0,None,Pa,None,10.1515/ntrev-2020-0047
+38,Co28.5Cr21.5Fe20Ni26Mo4,FCC+mu,HIP+A,Annealed at 773K,compressive strength,EXP,None,298.0,2606000000.0,None,Pa,None,10.1515/ntrev-2020-0047
+38,Co28.5Cr21.5Fe20Ni26Mo4,FCC+mu,HIP+A,Annealed at 823K,compressive strength,EXP,None,298.0,25860000000.0,None,Pa,None,10.1515/ntrev-2020-0047
+38,Co28.5Cr21.5Fe20Ni26Mo4,FCC+mu,HIP+A,Annealed at 873K,compressive strength,EXP,None,298.0,2640000000.0,None,Pa,None,10.1515/ntrev-2020-0047
+38,Co28.5Cr21.5Fe20Ni26Mo4,FCC+mu,HIP+A,Annealed at 1073K,compressive strength,EXP,None,298.0,2575000000.0,None,Pa,None,10.1515/ntrev-2020-0047
+38,Co28.5Cr21.5Fe20Ni26Mo4,FCC+mu,HIP+A,Annealed at 1123K,compressive strength,EXP,None,298.0,2606000000.0,None,Pa,None,10.1515/ntrev-2020-0047
+38,Co28.5Cr21.5Fe20Ni26Mo4,FCC+mu,HIP+A,Annealed at 1173K,compressive strength,EXP,None,298.0,2534000000.0,None,Pa,None,10.1515/ntrev-2020-0047
+38,Co28.5Cr21.5Fe20Ni26Mo4,FCC+mu,HIP+A,Annealed at 1373K,compressive strength,EXP,None,298.0,2482000000.0,None,Pa,None,10.1515/ntrev-2020-0047
+38,Co28.5Cr21.5Fe20Ni26Mo4,FCC+mu,HIP+A,Annealed at 1423K,compressive strength,EXP,None,298.0,2436000000.0,None,Pa,None,10.1515/ntrev-2020-0047
+38,Co28.5Cr21.5Fe20Ni26Mo4,FCC+mu,HIP+A,Annealed at 1473K,compressive strength,EXP,None,298.0,2513000000.0,None,Pa,None,10.1515/ntrev-2020-0047
+39,CoCrFeNiTa0.1,FCC+C14,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.jallcom.2017.12.015
+40,CoCrFeNiTa0.3,FCC+C14,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.jallcom.2017.12.015
+41,CoCrFeNiTa0.43,FCC+C14,VAM,Eutectic Composition,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.jallcom.2017.12.015
+42,CoCrFeNiTa0.5,FCC+C14,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.jallcom.2017.12.015
+43,CoCrFeNiTa0.7,FCC+C14,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.jallcom.2017.12.015
+40,CoCrFeNiTa0.3,FCC+C14,VAM,None,compressive fracture strain,EXP,None,298.0,29.0,None,%,None,10.1016/j.jallcom.2017.12.015
+41,CoCrFeNiTa0.43,FCC+C14,VAM,Eutectic Composition,compressive fracture strain,EXP,None,298.0,24.0,None,%,None,10.1016/j.jallcom.2017.12.015
+42,CoCrFeNiTa0.5,FCC+C14,VAM,None,compressive fracture strain,EXP,None,298.0,19.0,None,%,None,10.1016/j.jallcom.2017.12.015
+43,CoCrFeNiTa0.7,FCC+C14,VAM,None,compressive fracture strain,EXP,None,298.0,13.0,None,%,None,10.1016/j.jallcom.2017.12.015
+40,CoCrFeNiTa0.3,FCC+C14,VAM,None,compressive strength,EXP,None,298.0,2136000000.0,None,Pa,None,10.1016/j.jallcom.2017.12.015
+41,CoCrFeNiTa0.43,FCC+C14,VAM,Eutectic Composition,compressive strength,EXP,None,298.0,2383000000.0,None,Pa,None,10.1016/j.jallcom.2017.12.015
+42,CoCrFeNiTa0.5,FCC+C14,VAM,None,compressive strength,EXP,None,298.0,2037000000.0,None,Pa,None,10.1016/j.jallcom.2017.12.015
+43,CoCrFeNiTa0.7,FCC+C14,VAM,None,compressive strength,EXP,None,298.0,1913000000.0,None,Pa,None,10.1016/j.jallcom.2017.12.015
+40,CoCrFeNiTa0.3,FCC+C14,VAM,None,compressive yield strength,EXP,None,298.0,841000000.0,None,Pa,None,10.1016/j.jallcom.2017.12.015
+41,CoCrFeNiTa0.43,FCC+C14,VAM,Eutectic Composition,compressive yield strength,EXP,None,298.0,1121000000.0,None,Pa,None,10.1016/j.jallcom.2017.12.015
+42,CoCrFeNiTa0.5,FCC+C14,VAM,None,compressive yield strength,EXP,None,298.0,989000000.0,None,Pa,None,10.1016/j.jallcom.2017.12.015
+43,CoCrFeNiTa0.7,FCC+C14,VAM,None,compressive yield strength,EXP,None,298.0,1278000000.0,None,Pa,None,10.1016/j.jallcom.2017.12.015
+44,CoCrFeNiTa0.1,FCC+C14,VAM,None,Tm,CALC,None,None,1903.4,None,K,None,10.1016/j.jallcom.2017.11.075
+45,CoCrFeNiTa0.2,FCC+C14,VAM,None,Tm,CALC,None,None,1936.0,None,K,None,10.1016/j.jallcom.2017.11.075
+46,CoCrFeNiTa0.3,FCC+C14,VAM,None,Tm,CALC,None,None,1968.0,None,K,None,10.1016/j.jallcom.2017.11.075
+47,CoCrFeNiTa0.395,FCC+C14,VAM,None,Tm,CALC,None,None,1996.0,None,K,None,10.1016/j.jallcom.2017.11.075
+48,CoCrFeNiTa0.4,FCC+C14,VAM,None,Tm,CALC,None,None,1998.0,None,K,None,10.1016/j.jallcom.2017.11.075
+49,CoCrFeNiTa0.5,FCC+C14,VAM,None,Tm,CALC,None,None,2027.0,None,K,None,10.1016/j.jallcom.2017.11.075
+44,CoCrFeNiTa0.1,FCC+C14,VAM,None,mixing enthalpy,CALC,None,298.0,-5350.0,None,J / mol,None,10.1103/PhysRevX.5.011041
+45,CoCrFeNiTa0.2,FCC+C14,VAM,None,mixing enthalpy,CALC,None,298.0,-6800.0,None,J / mol,None,10.1103/PhysRevX.5.011041
+46,CoCrFeNiTa0.3,FCC+C14,VAM,None,mixing enthalpy,CALC,None,298.0,-8110.0,None,J / mol,None,10.1103/PhysRevX.5.011041
+47,CoCrFeNiTa0.395,FCC+C14,VAM,None,mixing enthalpy,CALC,None,298.0,-9240.0,None,J / mol,None,10.1103/PhysRevX.5.011041
+48,CoCrFeNiTa0.4,FCC+C14,VAM,None,mixing enthalpy,CALC,None,298.0,-9300.0,None,J / mol,None,10.1103/PhysRevX.5.011041
+49,CoCrFeNiTa0.5,FCC+C14,VAM,None,mixing enthalpy,CALC,None,298.0,-10370.0,None,J / mol,None,10.1103/PhysRevX.5.011041
+44,CoCrFeNiTa0.1,FCC+C14,VAM,None,mixing entropy,CALC,None,298.0,12.2,None,J / (K mol),None,10.1016/j.jallcom.2017.11.075
+45,CoCrFeNiTa0.2,FCC+C14,VAM,None,mixing entropy,CALC,None,298.0,12.6,None,J / (K mol),None,10.1016/j.jallcom.2017.11.075
+46,CoCrFeNiTa0.3,FCC+C14,VAM,None,mixing entropy,CALC,None,298.0,12.83,None,J / (K mol),None,10.1016/j.jallcom.2017.11.075
+47,CoCrFeNiTa0.395,FCC+C14,VAM,None,mixing entropy,CALC,None,298.0,13.0,None,J / (K mol),None,10.1016/j.jallcom.2017.11.075
+48,CoCrFeNiTa0.4,FCC+C14,VAM,None,mixing entropy,CALC,None,298.0,13.01,None,J / (K mol),None,10.1016/j.jallcom.2017.11.075
+49,CoCrFeNiTa0.5,FCC+C14,VAM,None,mixing entropy,CALC,None,298.0,13.15,None,J / (K mol),None,10.1016/j.jallcom.2017.11.075
+44,CoCrFeNiTa0.1,FCC+C14,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.jallcom.2017.11.075
+45,CoCrFeNiTa0.2,FCC+C14,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.jallcom.2017.11.075
+46,CoCrFeNiTa0.3,FCC+C14,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.jallcom.2017.11.075
+47,CoCrFeNiTa0.395,FCC+C14,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.jallcom.2017.11.075
+48,CoCrFeNiTa0.4,FCC+C14,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.jallcom.2017.11.075
+49,CoCrFeNiTa0.5,FCC+C14,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.jallcom.2017.11.075
+46,CoCrFeNiTa0.3,FCC+C14,VAM,None,compressive strength,EXP,None,298.0,2515000000.0,None,Pa,None,10.1016/j.jallcom.2017.11.075
+47,CoCrFeNiTa0.395,FCC+C14,VAM,None,compressive strength,EXP,None,298.0,2432000000.0,None,Pa,None,10.1016/j.jallcom.2017.11.075
+48,CoCrFeNiTa0.4,FCC+C14,VAM,None,compressive strength,EXP,None,298.0,2376000000.0,None,Pa,None,10.1016/j.jallcom.2017.11.075
+49,CoCrFeNiTa0.5,FCC+C14,VAM,None,compressive strength,EXP,None,298.0,2112000000.0,None,Pa,None,10.1016/j.jallcom.2017.11.075
+46,CoCrFeNiTa0.3,FCC+C14,VAM,None,compressive fracture strain,EXP,None,298.0,44.0,None,%,None,10.1016/j.jallcom.2017.11.075
+47,CoCrFeNiTa0.395,FCC+C14,VAM,None,compressive fracture strain,EXP,None,298.0,27.0,None,%,None,10.1016/j.jallcom.2017.11.075
+48,CoCrFeNiTa0.4,FCC+C14,VAM,None,compressive fracture strain,EXP,None,298.0,26.3,None,%,None,10.1016/j.jallcom.2017.11.075
+49,CoCrFeNiTa0.5,FCC+C14,VAM,None,compressive fracture strain,EXP,None,298.0,22.1,None,%,None,10.1016/j.jallcom.2017.11.075
+50,CoCrFeNi,FCC,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.matchemphys.2017.05.056
+50,CoCrFeNi,FCC,VAM,None,compressive yield strength,EXP,None,298.0,145000000.0,None,Pa,None,10.1016/j.matchemphys.2017.05.056
+51,CoCrFeNiTa0.1,FCC+C14,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.matchemphys.2017.05.056
+51,CoCrFeNiTa0.1,FCC+C14,VAM,None,compressive yield strength,EXP,None,298.0,267000000.0,None,Pa,None,10.1016/j.matchemphys.2017.05.056
+52,CoCrFeNiTa0.2,FCC+C14,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.matchemphys.2017.05.056
+52,CoCrFeNiTa0.2,FCC+C14,VAM,None,compressive yield strength,EXP,None,298.0,405000000.0,None,Pa,None,10.1016/j.matchemphys.2017.05.056
+53,CoCrFeNiTa0.3,FCC+C14,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.matchemphys.2017.05.056
+53,CoCrFeNiTa0.3,FCC+C14,VAM,None,compressive yield strength,EXP,None,298.0,946000000.0,None,Pa,None,10.1016/j.matchemphys.2017.05.056
+53,CoCrFeNiTa0.3,FCC+C14,VAM,None,plastic strain,EXP,None,298.0,30.0,None,%,None,10.1016/j.matchemphys.2017.05.056
+53,CoCrFeNiTa0.3,FCC+C14,VAM,None,compressive strength,EXP,None,298.0,1935000000.0,None,%,None,10.1016/j.matchemphys.2017.05.056
+54,CoCrFeNiTa0.4,FCC+C14,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.matchemphys.2017.05.056
+54,CoCrFeNiTa0.4,FCC+C14,VAM,None,compressive yield strength,EXP,None,298.0,1316000000.0,None,Pa,None,10.1016/j.matchemphys.2017.05.056
+54,CoCrFeNiTa0.4,FCC+C14,VAM,None,plastic strain,EXP,None,298.0,22.6,None,%,None,10.1016/j.matchemphys.2017.05.056
+54,CoCrFeNiTa0.4,FCC+C14,VAM,None,compressive strength,EXP,None,298.0,2293000000.0,None,Pa,None,10.1016/j.matchemphys.2017.05.056
+55,CoCrFeNiTa0.5,FCC+C14,VAM,None,hardness,EXP,None,298.0,4884000000.0,None,Pa,None,10.1016/j.matchemphys.2017.05.056
+55,CoCrFeNiTa0.5,FCC+C14,VAM,None,compressive yield strength,EXP,None,298.0,1346000000.0,None,Pa,None,10.1016/j.matchemphys.2017.05.056
+55,CoCrFeNiTa0.5,FCC+C14,VAM,None,compressive plastic strain,EXP,None,298.0,19.7,None,%,None,10.1016/j.matchemphys.2017.05.056
+55,CoCrFeNiTa0.5,FCC+C14,VAM,None,compressive strength,EXP,None,298.0,2118000000.0,None,Pa,None,10.1016/j.matchemphys.2017.05.056
+56,CoCrFeNiTa0.75,FCC+C14,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.matchemphys.2017.05.056
+56,CoCrFeNiTa0.75,FCC+C14,VAM,None,compressive plastic strain,EXP,None,298.0,0.0,None,%,None,10.1016/j.matchemphys.2017.05.056
+56,CoCrFeNiTa0.75,FCC+C14,VAM,None,compressive strength,EXP,None,298.0,1816000000.0,None,Pa,None,10.1016/j.matchemphys.2017.05.056
+57,(AlTa0.76)0.1CoCrFeNi2.1,FCC,VAM,None,compressive yield strength,EXP,None,298.0,293000000.0,None,Pa,None,10.1016/j.jmst.2020.03.045
+58,(AlTa0.76)0.3CoCrFeNi2.1,FCC+C14,VAM,None,compressive yield strength,EXP,None,298.0,503000000.0,None,Pa,None,10.1016/j.jmst.2020.03.045
+59,(AlTa0.76)0.5CoCrFeNi2.1,FCC+C14,VAM,None,compressive yield strength,EXP,None,298.0,974000000.0,None,Pa,None,10.1016/j.jmst.2020.03.045
+60,(AlTa0.76)0.7CoCrFeNi2.1,FCC+C14,VAM,None,compressive yield strength,EXP,None,298.0,1533000000.0,None,Pa,None,10.1016/j.jmst.2020.03.045
+61,(AlTa0.76)1CoCrFeNi2.1,FCC+BCC+C14,VAM,None,compressive yield strength,EXP,None,298.0,2336000000.0,None,Pa,None,10.1016/j.jmst.2020.03.045
+62,(AlTa0.76)1.5CoCrFeNi2.1,BCC+C14,VAM,None,compressive yield strength,EXP,None,298.0,2208000000.0,None,Pa,None,10.1016/j.jmst.2020.03.045
+59,(AlTa0.76)0.5CoCrFeNi2.1,FCC+C14,VAM,None,UTS,EXP,None,298.0,2646000000.0,None,Pa,None,10.1016/j.jmst.2020.03.045
+60,(AlTa0.76)0.7CoCrFeNi2.1,FCC+C14,VAM,None,UTS,EXP,None,298.0,2604000000.0,None,Pa,None,10.1016/j.jmst.2020.03.045
+61,(AlTa0.76)1CoCrFeNi2.1,FCC+BCC+C14,VAM,None,UTS,EXP,None,298.0,2566000000.0,None,Pa,None,10.1016/j.jmst.2020.03.045
+62,(AlTa0.76)1.5CoCrFeNi2.1,BCC+C14,VAM,None,UTS,EXP,None,298.0,2342000000.0,None,Pa,None,10.1016/j.jmst.2020.03.045
+59,(AlTa0.76)0.5CoCrFeNi2.1,FCC+C14,VAM,None,compressive plastic strain,EXP,None,298.0,30.6,None,%,None,10.1016/j.jmst.2020.03.045
+60,(AlTa0.76)0.7CoCrFeNi2.1,FCC+C14,VAM,None,compressive plastic strain,EXP,None,298.0,15.0,None,%,None,10.1016/j.jmst.2020.03.045
+61,(AlTa0.76)1CoCrFeNi2.1,FCC+BCC+C14,VAM,None,compressive plastic strain,EXP,None,298.0,2.0,None,%,None,10.1016/j.jmst.2020.03.045
+62,(AlTa0.76)1.5CoCrFeNi2.1,BCC+C14,VAM,None,compressive plastic strain,EXP,None,298.0,2.0,None,%,None,10.1016/j.jmst.2020.03.045
+57,(AlTa0.76)0.1CoCrFeNi2.1,FCC,VAM,None,mixing enthalpy,CALC,None,298.0,-6020.0,None,J / mol,None,10.1016/j.jmst.2020.03.045
+58,(AlTa0.76)0.3CoCrFeNi2.1,FCC+C14,VAM,None,mixing enthalpy,CALC,None,298.0,-9630.0,None,J / mol,None,10.1016/j.jmst.2020.03.045
+59,(AlTa0.76)0.5CoCrFeNi2.1,FCC+C14,VAM,None,mixing enthalpy,CALC,None,298.0,-12600.0,None,J / mol,None,10.1016/j.jmst.2020.03.045
+60,(AlTa0.76)0.7CoCrFeNi2.1,FCC+C14,VAM,None,mixing enthalpy,CALC,None,298.0,-14660.0,None,J / mol,None,10.1016/j.jmst.2020.03.045
+61,(AlTa0.76)1CoCrFeNi2.1,FCC+BCC+C14,VAM,None,mixing enthalpy,CALC,None,298.0,-17610.0,None,J / mol,None,10.1016/j.jmst.2020.03.045
+62,(AlTa0.76)1.5CoCrFeNi2.1,BCC+C14,VAM,None,mixing enthalpy,CALC,None,298.0,-20670.0,None,J / mol,None,10.1016/j.jmst.2020.03.045
+57,(AlTa0.76)0.1CoCrFeNi2.1,FCC,VAM,None,mixing entropy,CALC,None,298.0,12.05,None,J / (K mol),None,10.1016/j.jmst.2020.03.045
+58,(AlTa0.76)0.3CoCrFeNi2.1,FCC+C14,VAM,None,mixing entropy,CALC,None,298.0,13.09,None,J / (K mol),None,10.1016/j.jmst.2020.03.045
+59,(AlTa0.76)0.5CoCrFeNi2.1,FCC+C14,VAM,None,mixing entropy,CALC,None,298.0,13.69,None,J / (K mol),None,10.1016/j.jmst.2020.03.045
+60,(AlTa0.76)0.7CoCrFeNi2.1,FCC+C14,VAM,None,mixing entropy,CALC,None,298.0,14.05,None,J / (K mol),None,10.1016/j.jmst.2020.03.045
+61,(AlTa0.76)1CoCrFeNi2.1,FCC+BCC+C14,VAM,None,mixing entropy,CALC,None,298.0,14347.0,None,J / (K mol),None,10.1016/j.jmst.2020.03.045
+62,(AlTa0.76)1.5CoCrFeNi2.1,BCC+C14,VAM,None,mixing entropy,CALC,None,298.0,14.54,None,J / (K mol),None,10.1016/j.jmst.2020.03.045
+63,AlCoCrFeNi2,BCC+FCC,VAM,None,mixing enthalpy,CALC,None,298.0,-12000.0,None,J / mol,None,10.1007/s11665-017-3096-6
+64,AlCoCrFeNi2W0.1,BCC+FCC,VAM,None,mixing enthalpy,CALC,None,298.0,-11720.0,None,J / mol,None,10.1007/s11665-017-3096-6
+65,AlCoCrFeNi2W0.2,BCC+FCC,VAM,None,mixing enthalpy,CALC,None,298.0,-11450.0,None,J / mol,None,10.1007/s11665-017-3096-6
+66,AlCoCrFeNi2W0.3,BCC+FCC,VAM,None,mixing enthalpy,CALC,None,298.0,-11190.0,None,J / mol,None,10.1007/s11665-017-3096-6
+63,AlCoCrFeNi2,BCC+FCC,VAM,None,compressive yield strength,EXP,None,298.0,575555555.0,None,Pa,None,10.1007/s11665-017-3096-6
+64,AlCoCrFeNi2W0.1,BCC+FCC,VAM,None,compressive yield strength,EXP,None,298.0,560800000.0,None,Pa,None,10.1007/s11665-017-3096-6
+65,AlCoCrFeNi2W0.2,BCC+FCC,VAM,None,compressive yield strength,EXP,None,298.0,619500000.0,None,Pa,None,10.1007/s11665-017-3096-6
+66,AlCoCrFeNi2W0.3,BCC+FCC,VAM,None,compressive yield strength,EXP,None,298.0,651500000.0,None,Pa,None,10.1007/s11665-017-3096-6
+63,AlCoCrFeNi2,BCC+FCC,VAM,None,compressive fracture strength,EXP,None,298.0,2583800000.0,None,Pa,None,10.1007/s11665-017-3096-6
+64,AlCoCrFeNi2W0.1,BCC+FCC,VAM,None,compressive fracture strength,EXP,None,298.0,2543000000.0,None,Pa,None,10.1007/s11665-017-3096-6
+65,AlCoCrFeNi2W0.2,BCC+FCC,VAM,None,compressive fracture strength,EXP,None,298.0,2785900000.0,None,Pa,None,10.1007/s11665-017-3096-6
+66,AlCoCrFeNi2W0.3,BCC+FCC,VAM,None,compressive fracture strength,EXP,None,298.0,2255600000.0,None,Pa,None,10.1007/s11665-017-3096-6
+63,AlCoCrFeNi2,BCC+FCC,VAM,None,compressive fracture strain,EXP,None,298.0,42.7,None,%,None,10.1007/s11665-017-3096-6
+64,AlCoCrFeNi2W0.1,BCC+FCC,VAM,None,compressive fracture strain,EXP,None,298.0,41.4,None,%,None,10.1007/s11665-017-3096-6
+65,AlCoCrFeNi2W0.2,BCC+FCC,VAM,None,compressive fracture strain,EXP,None,298.0,42.0,None,%,None,10.1007/s11665-017-3096-6
+66,AlCoCrFeNi2W0.3,BCC+FCC,VAM,None,compressive fracture strain,EXP,None,298.0,31.0,None,%,None,10.1007/s11665-017-3096-6
+63,AlCoCrFeNi2,BCC+FCC,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1007/s11665-017-3096-6
+64,AlCoCrFeNi2W0.1,BCC+FCC,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1007/s11665-017-3096-6
+65,AlCoCrFeNi2W0.2,BCC+FCC,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1007/s11665-017-3096-6
+66,AlCoCrFeNi2W0.3,BCC+FCC,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1007/s11665-017-3096-6
+67,Ni20Fe20Cr20Mo20W20,BCC+FCC,IM,None,melting temperature,EXP,None,None,2370.0,None,K,None,10.1016/j.matlet.2017.02.063
+68,Ni35Fe30Cr20Mo10W5,BCC+FCC,IM,None,melting temperature,EXP,None,None,1958.0,None,K,None,10.1016/j.matlet.2017.02.063
+67,Ni20Fe20Cr20Mo20W20,BCC+FCC,IM,None,compressive yield strength ,EXP,None,298.0,1300000000.0,150000000.0,Pa,None,10.1016/j.matlet.2017.02.063
+68,Ni35Fe30Cr20Mo10W5,BCC+FCC,IM,None,compressive yield strength ,EXP,None,298.0,400000000.0,60000000.0,Pa,None,10.1016/j.matlet.2017.02.063
+69,AlCoCrFeNi2,BCC+FCC,VAM,None,compressive yield strength,EXP,None,298.0,575500000.0,None,Pa,None,10.1007/s13369-018-3297-9
+70,AlCoCrFeNi2W0.1,BCC+FCC,VAM,None,compressive yield strength,EXP,None,298.0,395000000.0,None,Pa,None,10.1007/s13369-018-3297-9
+71,AlCoCrFeNi2W0.2,BCC+FCC,VAM,None,compressive yield strength,EXP,None,298.0,359500000.0,None,Pa,None,10.1007/s13369-018-3297-9
+72,AlCoCrFeNi2W0.3,BCC+FCC,VAM,None,compressive yield strength,EXP,None,298.0,333500000.0,None,Pa,None,10.1007/s13369-018-3297-9
+69,AlCoCrFeNi2,BCC+FCC,VAM,None,compressive fracture strength,EXP,None,298.0,2583800000.0,None,Pa,None,10.1007/s13369-018-3297-9
+69,AlCoCrFeNi2,BCC+FCC,VAM,None,compressive fracture strain,EXP,None,298.0,42.7,None,%,None,10.1007/s13369-018-3297-9
+69,AlCoCrFeNi2,BCC+FCC,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1007/s13369-018-3297-9
+70,AlCoCrFeNi2W0.1,BCC+FCC,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1007/s13369-018-3297-9
+71,AlCoCrFeNi2W0.2,BCC+FCC,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1007/s13369-018-3297-9
+72,AlCoCrFeNi2W0.3,BCC+FCC,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1007/s13369-018-3297-9
+73,CoCrFeNi,FCC,VAM,None,compressive yield strength,EXP,None,298.0,163000000.0,None,Pa,None,10.1016/j.intermet.2019.106550
+74,CoCrFeNiW0.3,FCC+mu,VAM,None,compressive yield strength,EXP,None,298.0,335000000.0,None,Pa,None,10.1016/j.intermet.2019.106550
+75,CoCrFeNiW0.5,FCC+mu,VAM,None,compressive yield strength,EXP,None,298.0,556000000.0,None,Pa,None,10.1016/j.intermet.2019.106550
+73,CoCrFeNi,FCC,VAM,None,compressive fracture strength,EXP,None,298.0,5192000000.0,None,Pa,None,10.1016/j.intermet.2019.106550
+74,CoCrFeNiW0.3,FCC+mu,VAM,None,compressive fracture strength,EXP,None,298.0,1552000000.0,None,Pa,None,10.1016/j.intermet.2019.106550
+75,CoCrFeNiW0.5,FCC+mu,VAM,None,compressive fracture strength,EXP,None,298.0,1037000000.0,None,Pa,None,10.1016/j.intermet.2019.106550
+73,CoCrFeNi,FCC,VAM,None,compressive fracture strain,EXP,None,298.0,80.0,None,%,None,10.1016/j.intermet.2019.106550
+74,CoCrFeNiW0.3,FCC+mu,VAM,None,compressive fracture strain,EXP,None,298.0,52.0,None,%,None,10.1016/j.intermet.2019.106550
+75,CoCrFeNiW0.5,FCC+mu,VAM,None,compressive fracture strain,EXP,None,298.0,35.6,None,%,None,10.1016/j.intermet.2019.106550
+73,CoCrFeNi,FCC,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.intermet.2019.106550
+74,CoCrFeNiW0.3,FCC+mu,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.intermet.2019.106550
+75,CoCrFeNiW0.5,FCC+mu,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.intermet.2019.106550
+76,Ni30Co30Cr10Fe10Al18W2,FCC+BCC,VAM,None,UTS,EXP,None,298.0,1266500000.0,None,Pa,None,10.1016/j.matlet.2019.06.067
+76,Ni30Co30Cr10Fe10Al18W2,FCC+BCC,VAM,None,tensile fracture strain,EXP,None,298.0,20.3,None,%,None,10.1016/j.matlet.2019.06.067
+77,CoCrFeNiW0.5,FCC+mu,ELM,None,compressive yield strength,EXP,None,298.0,532500000.0,None,Pa,None,10.1016/j.jallcom.2022.165602
+77,CoCrFeNiW0.5,FCC+mu,ELM+A,Annealed at 823K,compressive yield strength,EXP,None,298.0,650500000.0,None,Pa,None,10.1016/j.jallcom.2022.165602
+77,CoCrFeNiW0.5,FCC+mu,ELM+A,Annealed at 1073K,compressive yield strength,EXP,None,298.0,651900000.0,None,Pa,None,10.1016/j.jallcom.2022.165602
+77,CoCrFeNiW0.5,FCC+mu,ELM+A,Annealed at 1273K,compressive yield strength,EXP,None,298.0,1253900000.0,None,Pa,None,10.1016/j.jallcom.2022.165602
+77,CoCrFeNiW0.5,FCC+mu,ELM+A,Annealed at 1473K,compressive yield strength,EXP,None,298.0,891500000.0,None,Pa,None,10.1016/j.jallcom.2022.165602
+77,CoCrFeNiW0.5,FCC+mu,ELM+A,Annealed at 1273K,compressive fracture strength,EXP,None,298.0,2031500000.0,None,Pa,None,10.1016/j.jallcom.2022.165602
+77,CoCrFeNiW0.5,FCC+mu,ELM+A,Annealed at 1473K,compressive fracture strength,EXP,None,298.0,2106900000.0,None,Pa,None,10.1016/j.jallcom.2022.165602
+77,CoCrFeNiW0.5,FCC+mu,ELM+A,Annealed at 1273K,compressive fracture strain,EXP,None,298.0,40.8,None,%,None,10.1016/j.jallcom.2022.165602
+77,CoCrFeNiW0.5,FCC+mu,ELM+A,Annealed at 1473K,compressive fracture strain,EXP,None,298.0,48.4,None,%,None,10.1016/j.jallcom.2022.165602
+77,CoCrFeNiW0.5,FCC+mu,ELM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.jallcom.2022.165602
+77,CoCrFeNiW0.5,FCC+mu,ELM+A,Annealed at 823K,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.jallcom.2022.165602
+77,CoCrFeNiW0.5,FCC+mu,ELM+A,Annealed at 1073K,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.jallcom.2022.165602
+77,CoCrFeNiW0.5,FCC+mu,ELM+A,Annealed at 1273K,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.jallcom.2022.165602
+77,CoCrFeNiW0.5,FCC+mu,ELM+A,Annealed at 1473K,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.jallcom.2022.165602
+78,AlCoCrFeNi,BCC,VAM,None,young modulus,EXP,None,298.0,127000000000.0,None,Pa,None,10.1063/1.2734517
+79,AlCoCrFeNiTi0.5,BCC+BCC,VAM,None,young modulus,EXP,None,298.0,177700000000.0,None,Pa,None,10.1063/1.2734517
+80,AlCoCrFeNiTi,BCC+BCC,VAM,None,young modulus,EXP,None,298.0,90100000000.0,None,Pa,None,10.1063/1.2734517
+81,AlCoCrFeNiTi1.5,BCC+BCC+laves,VAM,None,young modulus,EXP,None,298.0,159800000000.0,None,Pa,None,10.1063/1.2734517
+78,AlCoCrFeNi,BCC,VAM,None,compressive yield strength,EXP,None,298.0,1500000000.0,None,Pa,None,10.1063/1.2734517
+79,AlCoCrFeNiTi0.5,BCC+BCC,VAM,None,compressive yield strength,EXP,None,298.0,2260000000.0,None,Pa,None,10.1063/1.2734517
+80,AlCoCrFeNiTi,BCC+BCC,VAM,None,compressive yield strength,EXP,None,298.0,1860000000.0,None,Pa,None,10.1063/1.2734517
+81,AlCoCrFeNiTi1.5,BCC+BCC+laves,VAM,None,compressive yield strength,EXP,None,298.0,2220000000.0,None,Pa,None,10.1063/1.2734517
+78,AlCoCrFeNi,BCC,VAM,None,compressive fracture strength,EXP,None,298.0,2830000000.0,None,Pa,None,10.1063/1.2734517
+79,AlCoCrFeNiTi0.5,BCC+BCC,VAM,None,compressive fracture strength,EXP,None,298.0,3140000000.0,None,Pa,None,10.1063/1.2734517
+80,AlCoCrFeNiTi,BCC+BCC,VAM,None,compressive fracture strength,EXP,None,298.0,2580000000.0,None,Pa,None,10.1063/1.2734517
+81,AlCoCrFeNiTi1.5,BCC+BCC+laves,VAM,None,compressive fracture strength,EXP,None,298.0,2720000000.0,None,Pa,None,10.1063/1.2734517
+78,AlCoCrFeNi,BCC,VAM,None,compressive elastic strain,EXP,None,298.0,1.0,None,%,None,10.1063/1.2734517
+79,AlCoCrFeNiTi0.5,BCC+BCC,VAM,None,compressive elastic strain,EXP,None,298.0,1.1,None,%,None,10.1063/1.2734517
+80,AlCoCrFeNiTi,BCC+BCC,VAM,None,compressive elastic strain,EXP,None,298.0,1.7,None,%,None,10.1063/1.2734517
+81,AlCoCrFeNiTi1.5,BCC+BCC+laves,VAM,None,compressive elastic strain,EXP,None,298.0,1.3,None,%,None,10.1063/1.2734517
+78,AlCoCrFeNi,BCC,VAM,None,compressive plastic strain,EXP,None,298.0,26.9,None,%,None,10.1063/1.2734517
+79,AlCoCrFeNiTi0.5,BCC+BCC,VAM,None,compressive plastic strain,EXP,None,298.0,23.3,None,%,None,10.1063/1.2734517
+80,AlCoCrFeNiTi,BCC+BCC,VAM,None,compressive plastic strain,EXP,None,298.0,8.8,None,%,None,10.1063/1.2734517
+81,AlCoCrFeNiTi1.5,BCC+BCC+laves,VAM,None,compressive plastic strain,EXP,None,298.0,5.3,None,%,None,10.1063/1.2734517
+82,Ni0.2Co0.6Fe0.2CrSi0.2AlTi0.2,BCC+silicide,VAM,bulk alloy,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.matchemphys.2010.12.022
+83,NiCo0.6Fe0.2CrSiAlTi0.2,BCC+silicide,VAM,bulk alloy,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.matchemphys.2010.12.022
+84,NiCo0.6Fe0.2Cr1.5SiAlTi0.2,BCC+silicide,VAM,bulk alloy,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.matchemphys.2010.12.022
+82,Ni0.2Co0.6Fe0.2CrSi0.2AlTi0.2,BCC+silicide,VAM+TS,thermo-sprayed,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.matchemphys.2010.12.022
+83,NiCo0.6Fe0.2CrSiAlTi0.2,BCC+silicide,VAM+TS,thermo-sprayed,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.matchemphys.2010.12.022
+84,NiCo0.6Fe0.2Cr1.5SiAlTi0.2,BCC+silicide,VAM+TS,thermo-sprayed,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.matchemphys.2010.12.022
+82,Ni0.2Co0.6Fe0.2CrSi0.2AlTi0.2,BCC+silicide,VAM+TS+A,thermo-sprayed and annealed at 1073K,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.matchemphys.2010.12.022
+83,NiCo0.6Fe0.2CrSiAlTi0.2,BCC+silicide,VAM+TS+A,thermo-sprayed and annealed at 1073K,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.matchemphys.2010.12.022
+84,NiCo0.6Fe0.2Cr1.5SiAlTi0.2,BCC+silicide,VAM+TS+A,thermo-sprayed and annealed at 1073K,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.matchemphys.2010.12.022
+82,Ni0.2Co0.6Fe0.2CrSi0.2AlTi0.2,BCC+silicide,VAM+TS+A,thermo-sprayed and annealed at 1373K,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.matchemphys.2010.12.022
+83,NiCo0.6Fe0.2CrSiAlTi0.2,BCC+silicide,VAM+TS+A,thermo-sprayed and annealed at 1373K,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.matchemphys.2010.12.022
+84,NiCo0.6Fe0.2Cr1.5SiAlTi0.2,BCC+silicide,VAM+TS+A,thermo-sprayed and annealed at 1373K,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.matchemphys.2010.12.022
+85,CoCrFeNi,FCC,VAM,None,compressive yield stress,EXP,None,298.0,136000000.0,None,Pa,None,10.1016/j.msea.2012.06.075
+86,CoCrFeNiTi0.3,FCC+sigma,VAM,None,compressive yield stress,EXP,None,298.0,648000000.0,None,Pa,None,10.1016/j.msea.2012.06.075
+87,CoCrFeNiTi0.5,FCC+R+sigma+laves,VAM,None,compressive yield stress,EXP,None,298.0,898000000.0,None,Pa,None,10.1016/j.msea.2012.06.075
+85,CoCrFeNi,FCC,VAM,None,compressive strength,EXP,None,298.0,871000000.0,None,Pa,None,10.1016/j.msea.2012.06.075
+86,CoCrFeNiTi0.3,FCC+sigma,VAM,None,compressive strength,EXP,None,298.0,1529000000.0,None,Pa,None,10.1016/j.msea.2012.06.075
+87,CoCrFeNiTi0.5,FCC+R+sigma+laves,VAM,None,compressive strength,EXP,None,298.0,1502000000.0,None,Pa,None,10.1016/j.msea.2012.06.075
+85,CoCrFeNi,FCC,VAM,None,compressive fracture strain,EXP,None,298.0,75.0,None,%,None,10.1016/j.msea.2012.06.075
+86,CoCrFeNiTi0.3,FCC+sigma,VAM,None,compressive fracture strain,EXP,None,298.0,60.0,None,%,None,10.1016/j.msea.2012.06.075
+87,CoCrFeNiTi0.5,FCC+R+sigma+laves,VAM,None,compressive fracture strain,EXP,None,298.0,20.0,None,%,None,10.1016/j.msea.2012.06.075
+85,CoCrFeNi,FCC,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.msea.2012.06.075
+86,CoCrFeNiTi0.3,FCC+sigma,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.msea.2012.06.075
+87,CoCrFeNiTi0.5,FCC+R+sigma+laves,VAM,None,hardness,EXP,None,298.0,None,None,Pa,None,10.1016/j.msea.2012.06.075
+88,FeCoNiTi,FCC+?,VAM,None,None,EXP,None,None,None,None,None,None,10.4028/www.scientific.net/MSF.724.335
+89,FeCoNiTiCu,FCC,VAM,None,None,EXP,None,None,None,None,None,None,10.4028/www.scientific.net/MSF.724.335
+90,FeCoNiTiAl,FCC+BCC,VAM,None,None,EXP,None,None,None,None,None,None,10.4028/www.scientific.net/MSF.724.335
+91,FeCoNiTiAlCu,FCC+BCC,VAM,None,None,EXP,None,None,None,None,None,None,10.4028/www.scientific.net/MSF.724.335
+92,CoCrFeNiTi,FCC,VAM,None,None,EXP,None,None,None,None,None,None,10.1016/j.intermet.2011.10.010
+93,CoCrFeNiTiAl0.5,FCC+BCC+intermetallics,VAM,intermetallics = CoTi2-type and FeTi-type,None,EXP,None,None,None,None,None,None,10.1016/j.intermet.2011.10.010
+94,CoCrFeNiTiAl,FCC+BCC+intermetallics,VAM,intermetallics = CoTi2-type and FeTi-type,None,EXP,None,None,None,None,None,None,10.1016/j.intermet.2011.10.010
+95,CoCrFeNiTiAl1.5,BCC+BCC,VAM,None,None,EXP,None,None,None,None,None,None,10.1016/j.intermet.2011.10.010
+96,CoCrFeNiTiAl2,BCC+BCC,VAM,None,None,EXP,None,None,None,None,None,None,10.1016/j.intermet.2011.10.010
+97,AlCrFeNiTi0.5,BCC+BCC+Ni2AlTi+Fe0.2Ti0.8-BCC+Fe2Cr-FCC,VAM,None,compressive yield strength,EXP,None,298.0,1660000000.0,None,Pa,None,10.1016/j.msea.2018.10.114
+97,AlCrFeNiTi0.5,BCC+BCC+Ni2AlTi+Fe0.2Ti0.8-BCC,VAM+A,Annealed at 923K,compressive yield strength,EXP,None,298.0,1850000000.0,None,Pa,None,10.1016/j.msea.2018.10.114
+97,AlCrFeNiTi0.5,BCC+BCC+Ni2AlTi+Fe0.2Ti0.8-BCC,VAM+A,Annealed at 1123K,compressive yield strength,EXP,None,298.0,1660000000.0,None,Pa,None,10.1016/j.msea.2018.10.114
+97,AlCrFeNiTi0.5,BCC+BCC+Ni2AlTi+Fe0.2Ti0.8-BCC,VAM+A,Annealed at 1323K,compressive yield strength,EXP,None,298.0,1430000000.0,None,Pa,None,10.1016/j.msea.2018.10.114
+97,AlCrFeNiTi0.5,BCC+BCC+Ni2AlTi+Fe0.2Ti0.8-BCC+Fe2Cr-FCC,VAM,None,UTS,EXP,None,298.0,2330000000.0,None,Pa,None,10.1016/j.msea.2018.10.114
+97,AlCrFeNiTi0.5,BCC+BCC+Ni2AlTi+Fe0.2Ti0.8-BCC,VAM+A,Annealed at 923K,UTS,EXP,None,298.0,2010000000.0,None,Pa,None,10.1016/j.msea.2018.10.114
+97,AlCrFeNiTi0.5,BCC+BCC+Ni2AlTi+Fe0.2Ti0.8-BCC,VAM+A,Annealed at 1123K,UTS,EXP,None,298.0,2020000000.0,None,Pa,None,10.1016/j.msea.2018.10.114
+97,AlCrFeNiTi0.5,BCC+BCC+Ni2AlTi+Fe0.2Ti0.8-BCC,VAM+A,Annealed at 1323K,UTS,EXP,None,298.0,2050000000.0,None,Pa,None,10.1016/j.msea.2018.10.114
+97,AlCrFeNiTi0.5,BCC+BCC+Ni2AlTi+Fe0.2Ti0.8-BCC+Fe2Cr-FCC,VAM,None,compressive fracture strain,EXP,None,298.0,15.0,None,%,None,10.1016/j.msea.2018.10.114
+97,AlCrFeNiTi0.5,BCC+BCC+Ni2AlTi+Fe0.2Ti0.8-BCC,VAM+A,Annealed at 923K,compressive fracture strain,EXP,None,298.0,6.3,None,%,None,10.1016/j.msea.2018.10.114
+97,AlCrFeNiTi0.5,BCC+BCC+Ni2AlTi+Fe0.2Ti0.8-BCC,VAM+A,Annealed at 1123K,compressive fracture strain,EXP,None,298.0,11.0,None,%,None,10.1016/j.msea.2018.10.114
+97,AlCrFeNiTi0.5,BCC+BCC+Ni2AlTi+Fe0.2Ti0.8-BCC,VAM+A,Annealed at 1323K,compressive fracture strain,EXP,None,298.0,15.0,None,%,None,10.1016/j.msea.2018.10.114
+98,AlCoCrFeNi,BCC,VAM,None,None,EXP,None,None,None,None,None,None,10.1016/j.jallcom.2022.163901
+99,AlCoCrFeNiTi0.2,BCC+BCC+FCC,VAM,None,None,EXP,None,None,None,None,None,None,10.1016/j.jallcom.2022.163901
+100,AlCoCrFeNiTi0.4,BCC+BCC+FCC,VAM,None,None,EXP,None,None,None,None,None,None,10.1016/j.jallcom.2022.163901
+101,AlCoCrFeNiTi0.6,BCC+BCC+FCC+sigma,VAM,None,None,EXP,None,None,None,None,None,None,10.1016/j.jallcom.2022.163901
+102,AlCoCrFeNiTi0.8,BCC+BCC+FCC+laves,VAM,None,None,EXP,None,None,None,None,None,None,10.1016/j.jallcom.2022.163901
+103,AlCoCrFeNiTi,BCC+BCC+FCC+laves,VAM,None,None,EXP,None,None,None,None,None,None,10.1016/j.jallcom.2022.163901
+98,AlCoCrFeNi,BCC,VAM+A,Annealed at 773K,None,EXP,None,None,None,None,None,None,10.1016/j.jallcom.2022.163901
+99,AlCoCrFeNiTi0.2,BCC+BCC+FCC,VAM+A,Annealed at 773K,None,EXP,None,None,None,None,None,None,10.1016/j.jallcom.2022.163901
+103,AlCoCrFeNiTi,BCC+BCC+FCC,VAM+A,Annealed at 773K,None,EXP,None,None,None,None,None,None,10.1016/j.jallcom.2022.163901
+98,AlCoCrFeNi,BCC+FCC,VAM+A,Annealed at 1023K,None,EXP,None,None,None,None,None,None,10.1016/j.jallcom.2022.163901
+99,AlCoCrFeNiTi0.2,BCC+BCC+FCC+sigma,VAM+A,Annealed at 1023K,None,EXP,None,None,None,None,None,None,10.1016/j.jallcom.2022.163901
+103,AlCoCrFeNiTi,BCC+BCC+FCC+sigma,VAM+A,Annealed at 1023K,None,EXP,None,None,None,None,None,None,10.1016/j.jallcom.2022.163901
+98,AlCoCrFeNi,BCC+FCC,VAM+A,Annealed at 1273K,None,EXP,None,None,None,None,None,None,10.1016/j.jallcom.2022.163901
+99,AlCoCrFeNiTi0.2,BCC+BCC+FCC+sigma,VAM+A,Annealed at 1273K,None,EXP,None,None,None,None,None,None,10.1016/j.jallcom.2022.163901
+103,AlCoCrFeNiTi,BCC+BCC+FCC,VAM+A,Annealed at 1273K,None,EXP,None,None,None,None,None,None,10.1016/j.jallcom.2022.163901
+98,AlCoCrFeNi,BCC+FCC,VAM+A+OC,Annealed at 1273K and Oven-Cooled,None,EXP,None,None,None,None,None,None,10.1016/j.jallcom.2022.163901
+99,AlCoCrFeNiTi0.2,BCC+BCC+FCC+sigma,VAM+A+OC,Annealed at 1273K and Oven-Cooled,None,EXP,None,None,None,None,None,None,10.1016/j.jallcom.2022.163901
+103,AlCoCrFeNiTi,BCC+BCC+FCC,VAM+A+OC,Annealed at 1273K and Oven-Cooled,None,EXP,None,None,None,None,None,None,10.1016/j.jallcom.2022.163901
+104,FeCoNiAl0.1Si0.1,FCC,VAM,None,None,EXP,None,None,None,None,None,None,10.1038/srep01455
+105,FeCoNiAl0.2Si0.2,FCC,VAM,None,compressive yield strength,EXP,None,298.0,342000000.0,None,Pa,None,10.1038/srep01455
+106,FeCoNiAl0.3Si0.3,FCC+BCC,VAM,None,compressive yield strength,EXP,None,298.0,938000000.0,None,Pa,None,10.1038/srep01455
+106,FeCoNiAl0.3Si0.3,FCC+BCC,VAM,None,UTS,EXP,None,298.0,2857000000.0,None,Pa,None,10.1038/srep01455
+106,FeCoNiAl0.3Si0.3,FCC+BCC,VAM,None,compressive plastic strain,EXP,None,298.0,33.0,None,%,None,10.1038/srep01455
+107,FeCoNiAl0.4Si0.4,FCC+BCC,VAM,None,UTS,EXP,None,298.0,2295000000.0,None,Pa,None,10.1038/srep01455
+107,FeCoNiAl0.4Si0.4,FCC+BCC,VAM,None,compressive plastic strain,EXP,None,298.0,2.6,None,%,None,10.1038/srep01455
+108,FeCoNiAl0.5Si0.5,BCC,VAM,None,UTS,EXP,None,298.0,2046000000.0,None,Pa,None,10.1038/srep01455
+108,FeCoNiAl0.5Si0.5,BCC,VAM,None,compressive plastic strain,EXP,None,298.0,4.05,None,%,None,10.1038/srep01455
+109,FeCoNiAl0.6Si0.6,BCC,VAM,None,None,EXP,None,None,None,None,None,None,10.1038/srep01455
+110,FeCoNiAl0.7Si0.7,BCC,VAM,None,None,EXP,None,None,None,None,None,None,10.1038/srep01455
+111,FeCoNiAl0.8Si0.8,BCC,VAM,None,UTS,EXP,None,298.0,1017000000.0,None,Pa,None,10.1038/srep01455
+111,FeCoNiAl0.8Si0.8,BCC,VAM,None,compressive plastic strain,EXP,None,298.0,0.75,None,%,None,10.1038/srep01455
